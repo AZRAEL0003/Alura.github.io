@@ -21,3 +21,15 @@ Una aplicación web simple para organizar un sorteo de **Amigo Secreto**. Permit
 3. **Sorteo aleatorio**  
    - Haz clic en "Sortear amigo" para elegir un nombre al azar de la lista.  
    - El resultado se muestra en pantalla, reemplazando sorteos anteriores.
+
+
+Tecnologías utilizadas
+
+- **HTML** para la estructura de la página.
+- **CSS** para el diseño y estilos visuales.
+- **JavaScript** para la funcionalidad interactiva (agregar nombres y sortear aleatoriamente).
+
+🚀 Cómo usar
+
+1. Clona o descarga el proyecto:
+   
